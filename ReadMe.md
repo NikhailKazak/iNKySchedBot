@@ -4,8 +4,7 @@ Version: 1.1
 
 Published on Sept 3rd, 2021
 
-
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Purpose:
    1) This bot, known as iNKySchedBot, is a scheduling bot. It can book an event, add additional users as participants to events, help individuals remove
